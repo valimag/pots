@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>digg.com: Unsubscribe Test / Science</title>
+    <link>http://digg.com/unsubscribe_test</link>
+    <description>This is a test feed for the unsubscribe method.</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Discovery of the Quantum Teleportation Field</title>
+      <link>http://digg.com/science/quantum_teleportation_discovery</link>
+      <description>Scientists have discovered a new field of quantum teleportation which could revolutionize the way we transmit information.</description>
+      <pubDate>Wed, 28 Jan 2009 12:30:00 +0000</pubDate>
+      <guid>http://digg.com/science/quantum_teleportation_discovery</guid>
+    </item>
+
+    <item>
+      <title>New Method for Recycling Plastic into Fuel</title>
+      <link>http://digg.com/science/recycling_plastic_into_fuel</link>
+      <description>A groundbreaking method has been developed for recycling plastic waste into fuel, potentially reducing landfill waste.</description>
+      <pubDate>Wed, 28 Jan 2009 15:45:00 +0000</pubDate>
+      <guid>http://digg.com/science/recycling_plastic_into_fuel</guid>
+    </item>
+
+    <item>
+      <title>Breakthrough in Artificial Photosynthesis</title>
+      <link>http://digg.com/science/artificial_photosynthesis_breakthrough</link>
+      <description>Researchers have made a significant breakthrough in artificial photosynthesis, paving the way for cleaner energy production.</description>
+      <pubDate>Wed, 28 Jan 2009 18:00:00 +0000</pubDate>
+      <guid>http://digg.com/science/artificial_photosynthesis_breakthrough</guid>
+    </item>
+  </channel>
+</rss>
